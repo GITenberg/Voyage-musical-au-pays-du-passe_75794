@@ -1,0 +1,34 @@
+_repo: Voyage-musical-au-pays-du-passe_75794
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2025-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75794'
+language: fr
+pgterms:marc904: https://archive.org/details/voyagemusicalaup00roll
+pgterms:marc905: 20210120213806rolland
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Pierre Lacaze and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aParis :$bHachette, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voyage musical au pays du passé
+url: http://www.gutenberg.org/ebooks/75794
