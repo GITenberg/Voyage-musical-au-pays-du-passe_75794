@@ -1,5 +1,8 @@
 _repo: Voyage-musical-au-pays-du-passe_75794
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75794-h/images/cover.jpg
 creator:
   author:
     agent_name: Rolland, Romain
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Romain_Rolland
     - https://fr.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75794#Voyage-musical-au-pays-du-passe
 gutenberg_issued: '2025-04-05'
 gutenberg_type: Text
 identifiers:
